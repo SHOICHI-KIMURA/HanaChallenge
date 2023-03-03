@@ -15,7 +15,7 @@ public class Goal : MonoBehaviour
     {
         if (other.gameObject.name == "Finger")
         {
-            Debug.Log("ƒS[ƒ‹‚µ‚Ü‚µ‚½I");
+            Debug.Log("ã‚´ãƒ¼ãƒ«ã—ã¾ã—ãŸï¼");
             _particle.SetActive(true);
         }
     }
